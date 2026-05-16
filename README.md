@@ -4,7 +4,7 @@
 ![Architecture](https://img.shields.io/badge/Architecture-x86%20%7C%20x64-lightgrey)
 ![Rubberduck](https://img.shields.io/badge/Rubberduck-Ready-orange)
 
-Extended Collection Class — key read-back, in-place item update, key reassignment, `For Each` support, sorted enumeration, and position lookup, all backed by direct traversal of the Collection's internal doubly-linked list. Provides for missing functionality in default available functionality. The Class is based on an encapsulated VB Collection. When available it used the methods avaialable in VBA. 
+Extended Collection Class — key read-back, in-place item update, key reassignment, `For Each` support, sorted enumeration, and position lookup, all backed by direct traversal of the Collection's internal doubly-linked list. Provides for missing functionality in default available functionality. The Class is based on an encapsulated VB Collection. When available it uses the methods avaialable in VBA. 
 
 ---
 
