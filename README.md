@@ -4,7 +4,7 @@
 ![Architecture](https://img.shields.io/badge/Architecture-x86%20%7C%20x64-lightgrey)
 ![Rubberduck](https://img.shields.io/badge/Rubberduck-Ready-orange)
 
-VBA class module for an extended Collection — key read-back, in-place item update, key reassignment, `For Each` support, sorted enumeration, and position lookup, all backed by direct traversal of the Collection's internal doubly-linked list.
+Extended Collection Class — key read-back, in-place item update, key reassignment, `For Each` support, sorted enumeration, and position lookup, all backed by direct traversal of the Collection's internal doubly-linked list.
 
 ---
 
